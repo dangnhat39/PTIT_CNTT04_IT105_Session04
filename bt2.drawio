@@ -1,0 +1,111 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="A7kaeTEQXPfzehXWRLVU">
+    <mxGraphModel dx="1216" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-1" value="&lt;p dir=&quot;ltr&quot; style=&quot;box-sizing: border-box; margin: 6pt 0px; padding: 0px; color: rgb(0, 0, 0); font-family: SFProDisplay; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 1.8;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Cho 3 mối quan hệ:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 0px; padding: 0px 0px 0px 2rem; list-style: circle; color: rgb(33, 37, 41); font-family: SFProDisplay; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; padding-inline-start: 48px;&quot;&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: &amp;quot;Noto Sans Symbols&amp;quot;, sans-serif; font-size: 12pt; font-style: normal; font-variant: normal; font-weight: 400; list-style-type: disc; text-decoration: none; vertical-align: baseline; white-space: pre;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;“Một giáo viên giảng dạy nhiều lớp học.”&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: &amp;quot;Noto Sans Symbols&amp;quot;, sans-serif; font-size: 12pt; font-style: normal; font-variant: normal; font-weight: 400; list-style-type: disc; text-decoration: none; vertical-align: baseline; white-space: pre;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;“Một đơn hàng gồm nhiều sản phẩm.”&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: &amp;quot;Noto Sans Symbols&amp;quot;, sans-serif; font-size: 12pt; font-style: normal; font-variant: normal; font-weight: 400; list-style-type: disc; text-decoration: none; vertical-align: baseline; white-space: pre;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;“Một cơ thể gồm nhiều bộ phận không thể tách rời.”&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p dir=&quot;ltr&quot; style=&quot;box-sizing: border-box; margin: 6pt 0px; padding: 0px; color: rgb(0, 0, 0); font-family: SFProDisplay; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 1.8;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Yêu cầu: Nhận diện loại quan hệ và giải thích.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;box-sizing: border-box; margin: 6pt 0px; padding: 0px; color: rgb(0, 0, 0); font-family: SFProDisplay; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; line-height: 1.8;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; background-color: transparent; color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-style: normal; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;Viết theo bảng: Mối quan hệ – Loại – Giải thích – Ký hiệu UML (nếu có)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="560" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="100" y="390" width="600" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-2">
+          <mxGeometry width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-4" value="Mối quan hệ&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-3">
+          <mxGeometry width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-5" value="Loại" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-3">
+          <mxGeometry x="150" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-6" value="Giải thích" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-3">
+          <mxGeometry x="300" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-7" value="Ký hiệu UML" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-3">
+          <mxGeometry x="450" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-2">
+          <mxGeometry y="90" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-9" value="một giáo viên giảng dạy nhiều lớp học" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-8">
+          <mxGeometry width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-10" value="association" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-8">
+          <mxGeometry x="150" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-11" value="giảo viên biết các lớp học mình dạy và các lớp học biết đến giao viên" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-8">
+          <mxGeometry x="300" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-8">
+          <mxGeometry x="450" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-2">
+          <mxGeometry y="180" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-14" value="một đơn hàng gồm nhiều sản phẩm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-13">
+          <mxGeometry width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-15" value="aggregation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-13">
+          <mxGeometry x="150" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-16" value="sản phẩm có thể được bán ở nhiều đơn hàng nên nếu k có đơn hàng này thì vẫn có đơn hang khác chứa sản phẩm&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-13">
+          <mxGeometry x="300" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-17" value="&#xa;◇──&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&#xa;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-13">
+          <mxGeometry x="450" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-2">
+          <mxGeometry y="270" width="600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-19" value="một cơ thể gồm nhiều bộ phận không thể tách rời" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-18">
+          <mxGeometry width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-20" value="composition" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-18">
+          <mxGeometry x="150" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-21" value="nếu không có cơ thể thì k tồn tại bộ phận" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-18">
+          <mxGeometry x="300" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-22" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(42, 44, 51); text-align: start;&quot; class=&quot;p1&quot;&gt;◆──&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="hu9vIAGg8wq6zx4Z0Q1q-18">
+          <mxGeometry x="450" width="150" height="90" as="geometry">
+            <mxRectangle width="150" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hu9vIAGg8wq6zx4Z0Q1q-25" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="520" width="79" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
